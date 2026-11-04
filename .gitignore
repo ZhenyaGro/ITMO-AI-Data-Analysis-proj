@@ -1,0 +1,17 @@
+# Python: локальное окружение и кэш
+.venv/
+__pycache__/
+*.py[cod]
+
+# Кэш Matplotlib и файлы macOS
+.matplotlib/
+.DS_Store
+
+# Локальные настройки проекта DBeaver
+.dbeaver/
+.project
+
+# Временные файлы SQLite (сама база входит в проект)
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
