@@ -1,0 +1,41 @@
+id,category_id,name,price_kopecks
+1,1,Nord S10 128 ГБ,2499000
+2,1,Nord S20 256 ГБ,3999000
+3,1,Lumen Pro 256 ГБ,6999000
+4,1,Vektor Mini 128 ГБ,1799000
+5,1,Lumen Ultra 512 ГБ,9999000
+6,2,Vektor Book 14,5499000
+7,2,Nord Air 13,7499000
+8,2,Lumen Studio 16,11999000
+9,2,Vektor Game 15,9499000
+10,2,Nord Book 15,4499000
+11,3,Nord Tab 10 64 ГБ,1999000
+12,3,Lumen Tab 11 128 ГБ,3299000
+13,3,Vektor Pad Pro 256 ГБ,5499000
+14,3,Nord Tab Mini 64 ГБ,1499000
+15,3,Lumen Tab 12 256 ГБ,6499000
+16,4,Nord Buds Lite,299000
+17,4,Lumen Sound ANC,899000
+18,4,Vektor Audio Pro,1299000
+19,4,Nord Studio Wired,499000
+20,4,Lumen Buds 2,599000
+21,5,Vektor View 24,1299000
+22,5,Nord Screen 27,2199000
+23,5,Lumen View 27 4K,3999000
+24,5,Vektor Game 27 165 Гц,2999000
+25,5,Nord Wide 34,4499000
+26,6,Nord Keys Compact,299000
+27,6,Vektor Keys Mech,699000
+28,6,Lumen Keys Wireless,499000
+29,6,Nord Keys Office,149000
+30,6,Vektor Keys TKL,899000
+31,7,Nord Mouse Wireless,199000
+32,7,Vektor Mouse Game,449000
+33,7,Lumen Mouse Ergo,599000
+34,7,Nord Mouse Office,99000
+35,7,Vektor Mouse Mini,249000
+36,8,Кабель USB-C 1 м,79000
+37,8,Зарядное устройство 65 Вт,299000
+38,8,USB-C хаб 6 в 1,399000
+39,8,Внешний аккумулятор 20000,349000
+40,8,Подставка для ноутбука,249000
